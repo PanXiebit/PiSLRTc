@@ -15,7 +15,7 @@ wget "http://cihancamgoz.com/files/cvpr2020/phoenix14t.pami0.train"
 wget "http://cihancamgoz.com/files/cvpr2020/phoenix14t.pami0.dev"
 wget "http://cihancamgoz.com/files/cvpr2020/phoenix14t.pami0.test"
 ```
-2. put the feature in "data-bin/PHOENIX2014T/"
+2. Put the feature files in "data-bin/PHOENIX2014T/"
 ```
 └── PHOENIX2014T
     ├── gloss_vocab.txt
