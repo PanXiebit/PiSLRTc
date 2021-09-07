@@ -15,7 +15,7 @@ def get_parser():
     ap.add_argument("--local_num_layers", default=0, type=int, help="local_num_layers")
     ap.add_argument("--use_relative", default=True, type=bool, help="use_relative")
     ap.add_argument("--is_adaptive", default=True, type=bool, help="is_adaptive")
-    ap.add_argument("--use_adaptive_tcn", default=True, type=bool, help="use_adaptive_tcn")
+    ap.add_argument("--use_adaptive_tcn", default=False, type=bool, help="use_adaptive_tcn")
 
     # model parameters
     ap.add_argument("--embedding_dim", default=512, type=int, help="embedding dim")
