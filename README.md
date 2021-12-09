@@ -1,6 +1,6 @@
 # PiSLRTc
 
-[PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution](https://ieeexplore.ieee.org/document/9528010) in IEEE Transactions on Multimedia (TMM).
+[PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution](https://ieeexplore.ieee.org/document/9528010) in IEEE Transactions on Multimedia (TMM). [Arxiv Link](https://arxiv.org/abs/2107.12600)
 
 ## Installation
 - Pytorch (1.0)
